@@ -248,8 +248,9 @@ section.projects h4{
 }
 .carousel-cell img{
     background-image: no-repeat;
+    margin-top: 20vh;
     width: 90%;
-    height: 100%;
+    height: 50%;
 }
 section.projects .btn3{
     text-decoration: none;
