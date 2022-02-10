@@ -270,7 +270,7 @@ section.projects .btn3:hover{
     background-color: lightgray;
 }
 .resume iframe{
-    width: 70%;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
     display: block;
